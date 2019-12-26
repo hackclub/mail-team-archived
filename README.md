@@ -28,6 +28,7 @@ Letters and Type A Wallets should be printed onto white stock. Type A Envelopes 
 To reiterate, each Nodemaster must have at least **two** types of paper on hand: White and Colored.
 
 [Acceptable White Stock](https://www.amazon.com/Accent-Opaque-Cardstock-Bright-Sheets/dp/B01JGGQHPU/)
+
 [Acceptable Colored Stock](https://www.amazon.com/Neenah-Astrobrights-Premium-Inches-Re-Entry/dp/B000095S4Q/)
 
 ### Label Sheets
@@ -39,7 +40,9 @@ The Nodemaster's printer is always stocked with double-4x6 A4-size label sheets.
 Used as postage for missions without a shipping label. Will be different for each country.
 
 [Acceptable USPS Stamps](https://www.amazon.com/USPS-Forever-Stamps-Roll-100/dp/B07NKDQMPS/)
+
 [Acceptable Canada Post Stamps](https://www.canadapost.ca/shop/stamps/canada/p-101404.jsf)
+
 TODO: Add Link for India Post Stamps
 
 ### Rubber Bands
