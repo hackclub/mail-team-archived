@@ -20,7 +20,7 @@ The Nodemaster should connect their printer to WiFi, configure it to receive Ema
 
 The current recommended printer is the [HP m254dw](https://www.amazon.com/HP-LaserJet-Wireless-Replenishment-T6B60A/dp/B073R2WVKB/).
 
-![HP m254dw](./HC_Printer_HP_md54dw.jpg)
+![HP m254dw](/HC_Printer_HP_md54dw.jpg)
 
 ### Paper
 The correct paper for printed letters and Type A packaging is 65lb A4 sheet.
