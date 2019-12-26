@@ -35,6 +35,13 @@ The Nodemaster's printer is always stocked with double-4x6 A4-size label sheets.
 
 [Acceptable Amazon Choice](https://www.amazon.com/dp/B01MYHEKS8/)
 
+### Stamps
+Used as postage for missions without a shipping label. Will be different for each country.
+
+[Acceptable USPS Stamps](https://www.amazon.com/USPS-Forever-Stamps-Roll-100/dp/B07NKDQMPS/)
+[Acceptable Canada Post Stamps](https://www.canadapost.ca/shop/stamps/canada/p-101404.jsf)
+TODO: Add Link for India Post Stamps
+
 ### Rubber Bands
 Used to bundle stickers for mailing in an envelope. Also used for the general organizational needs of operating a node.
 
