@@ -20,6 +20,8 @@ The Nodemaster should connect their printer to WiFi, configure it to receive Ema
 
 The current recommended printer is the [HP m254dw](https://www.amazon.com/HP-LaserJet-Wireless-Replenishment-T6B60A/dp/B073R2WVKB/).
 
+[Acceptable (generic) Toner Cartridges](https://www.amazon.com/dp/B07RXJ9B4M/)
+
 ### Paper
 The correct paper for printed letters and Type A packaging is 65lb A4 sheet.
 
@@ -88,3 +90,8 @@ Used to melt/pour wax for Type A packaging.
 Used to light the Wax Furnace candle.
 
 [Acceptable Amazon Choice](https://www.amazon.com/dp/B005TL0DNE/)
+
+### Scissors
+Used to cut twine.
+
+[Acceptable Amazon Choice](https://www.amazon.com/Fiskars-01-004761J-Softgrip-Scissors-Stainless/dp/B002YIP97K/)
