@@ -45,7 +45,7 @@ Used as postage for missions without a shipping label. Will be different for eac
 
 [Acceptable Canada Post Stamps](https://www.canadapost.ca/shop/stamps/canada/p-101404.jsf)
 
-[Acceptable Canada Post Stamps](https://www.indiapost.gov.in/Philately/Pages/Content/Buy-Stamp.aspx)
+[Acceptable India Post Stamps](https://www.indiapost.gov.in/Philately/Pages/Content/Buy-Stamp.aspx)
 
 ### Rubber Bands
 Used to bundle stickers for mailing in an envelope. Also used for the general organizational needs of operating a node.
