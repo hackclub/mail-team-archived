@@ -62,12 +62,10 @@ Used to perforate paper during Type A package assembly.
 
 [Acceptable Amazon Choice](https://www.amazon.com/dp/B00M0KQ7MS/)
 
-### Beeswax
-Used to seal Type A packaging. Must be beeswax; cheap petroleum-based wax lacks the requisite smell/feel.
+### Sealing Wax
+Used to seal Type A packaging.Color may be chosen to accord with the Nodemaster's personal tastes.
 
-Color may be chosen to accord with the Nodemaster's personal tastes.
-
-[Acceptable Amazon Choice](https://www.amazon.com/dp/B01LZA9P8L/)
+[Acceptable Amazon Choice](https://www.amazon.com/dp/B073DXL3MF/)
 
 ### 1mm Twine
 Used to create the tear-open mechanism of Type A packaging. Natural fibers such as jute and hemp are preferred. Petroleum fibers such as nylon or polypropylene are frowned upon.
